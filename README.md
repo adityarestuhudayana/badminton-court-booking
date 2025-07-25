@@ -19,6 +19,16 @@ A web-based application to manage badminton court bookings — built with **Lara
 
 ---
 
+## 💻 Screenshots UI
+
+### Landing Page
+<img width="1348" height="613" alt="Screenshot 2025-07-25 103013" src="https://github.com/user-attachments/assets/55487786-8307-429b-9f40-9a875e161189" />
+
+### Dashboard
+<img width="1344" height="618" alt="Screenshot 2025-07-25 103051" src="https://github.com/user-attachments/assets/68e10382-d0b3-4c25-ad5b-401841f155d4" />
+
+---
+
 ## 🧩 Third-Party Libraries & Packages
 
 | Package | Fungsi |
